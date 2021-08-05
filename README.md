@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poderosa21
+- 👋 Hola, Soy @Poderosa21
 - 🌱 Project Manager Pentest
 - 💞️ Colaboro en The Casuals Security
 
